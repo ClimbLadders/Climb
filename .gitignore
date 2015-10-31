@@ -47,6 +47,7 @@ local.properties
 [Dd]ebug/
 [Rr]elease/
 x64/
+bin/
 build/
 [Bb]in/
 [Oo]bj/
